@@ -11,7 +11,7 @@
 利用Cloudflare Workers 支持的JS反向代理搭建AO3镜像/Google/中文维基百科镜像
 
 详细教程实现地址：https://blog.lighthouse-853.icu/2020/04/cloudflare-worker-Mirror-AO3-Wikipedia.html <br>
-AO3镜像：https://3.lighthouse-853.icu/ <br>
+AO3镜像：https://blog.lighthouse-853.icu/2020/04/ao3-google-mirror.html <br>
 中文维基百科镜像：https://blog.lighthouse-853.icu/2020/04/Wikipedia-Mirror.html <br>
 *#为避免配额过快消耗，此镜像只允许中国大陆访问，首次访问需要接受Captcha验证码质询* <br>
 *#配合火狐浏览器的ESNI功能与DNS over HTTPS效果更佳*
