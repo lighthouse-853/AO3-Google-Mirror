@@ -177,4 +177,5 @@ AO3镜像：https://3.lighthouse-853.icu/ <br>
 ![Cloudflare Access规则]（http://github.com/lighthouse-853/Lighthouse-Mirror/raw/master/images_folder/cloudflareAccess.png）
 具体配置方式参考Cloudflare Support：https://developers.cloudflare.com/access/setting-up-access/configuring-access-policies/
 ## 致敬
-***屏蔽维基百科，将是对审查者的极大讽刺，因为我们不是他们宣称的任何一种审查对象；审查维基百科等于承认，恰恰是中立的事实数据令其担惊受怕。我们不是政治宣传机器，我们不是网络赌博，我们不是色情。我们是一部百科全书。    ——维基百科计划的创始人 Jimmy Wales ***
+*屏蔽维基百科，将是对审查者的极大讽刺，因为我们不是他们宣称的任何一种审查对象；审查维基百科等于承认，恰恰是中立的事实数据令其担惊受怕。我们不是政治宣传机器，我们不是网络赌博，我们不是色情。我们是一部百科全书。*  <br>  
+*——维基百科计划的创始人 Jimmy Wales* 
